@@ -3,7 +3,7 @@ package server
 
 import (
 	"errors"
-	"net/http"
+	"net/https"
 
 	"github.com/kossiitkgp/kwoc-backend/v2/middleware"
 	"github.com/kossiitkgp/kwoc-backend/v2/utils"
